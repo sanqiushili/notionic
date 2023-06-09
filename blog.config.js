@@ -61,8 +61,8 @@ const BLOG = {
       measurementId: '' // e.g: G-XXXXXXXXXX
     },
     umamiConfig: {
-      scriptUrl: '', // The url of your Umami script
-      websiteId: '' // The website id of your Umami instance
+      scriptUrl: 'https://analytics.umami.is/script.js', // The url of your Umami script
+      websiteId: '488a0b23-a49a-4046-b44a-d90507332eec' // The website id of your Umami instance
     }
   },
   comment: {
