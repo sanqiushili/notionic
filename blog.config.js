@@ -47,7 +47,7 @@ const BLOG = {
   telegramChannelName: '三秋的薯条发放站🍟', // The name of your Telegram channel
   craftConfigShareUrl: 'https://www.craft.do/s/kQtcWqkv98cHhB', // The link to share your craft config
   analytics: {
-    provider: '', // Currently we support Google Analytics, Ackee, Umami and Cloudflare Insights, please fill with 'ga' or 'ackee' or 'umami' or 'cf', leave it empty to disable it.
+    provider: 'umami', // Currently we support Google Analytics, Ackee, Umami and Cloudflare Insights, please fill with 'ga' or 'ackee' or 'umami' or 'cf', leave it empty to disable it.
     ackeeConfig: {
       tracker: '', // e.g 'https://ackee.example.com/tracker.js'
       dataAckeeServer: '', // e.g https://ackee.example.com , don't end with a slash
