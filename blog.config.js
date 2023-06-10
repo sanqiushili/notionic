@@ -16,11 +16,11 @@ const BLOG = {
   postsPerPage: 10,
   sortByDate: true,
   pagesShow: {
-    newsletter: true,
+    newsletter: false,
     notes: true,
     projects: true,
     contact: true,
-    books: true,
+    books: false,
     friends: true
   },
   showWeChatPay: true,
