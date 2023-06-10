@@ -3,7 +3,7 @@ const BLOG = {
   author: '三秋十李 Sergio',
   email: 'leeguiyu@qq.com',
   link: 'https://sqsl.art',
-  newsletter: 'Notionic Weekly',
+  newsletter: 'Weekly fries',
   description: 'A lazy man of constant exploration',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
