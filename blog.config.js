@@ -2,7 +2,7 @@ const BLOG = {
   title: '薯条发放处',
   author: '三秋十李 Sergio',
   email: 'leeguiyu@qq.com',
-  link: 'https://sqsl.art',
+  link: 'https://blog.sqsl.art',
   newsletter: 'Weekly fries',
   description: 'A lazy man of constant exploration',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
