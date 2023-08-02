@@ -116,7 +116,7 @@ function Contact() {
                 type='submit'
                 className='inline-block bg-gray-800 dark:bg-gray-100 hover:bg-gray-600 dark:hover:bg-gray-300 text-center rounded-lg outline-none transition duration-100 px-8 py-3'
               >
-                <p className='text-gray-400 h-5'>{t.CONTACT.SEND_BUTTON}</p>
+                <p className='text-gray-100 dark:text-gray-800 h-5'>{t.CONTACT.SEND_BUTTON}</p>
               </button>
             )}
             <p className='mb-2 text-gray-400 text-xs'>
